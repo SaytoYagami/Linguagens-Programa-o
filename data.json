@@ -1,0 +1,304 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Linguagem de programa\r\n\r\nção que \r\n\r\né um superset tipado estaticamente do JavaScript, compilando para JS puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "frontend",
+      "backend",
+      "tipagem est\r\n\r\nática"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programa\r\n\r\nção compilada e concorrente, desenvolvida pelo Google, focada em performance e sistemas de rede.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "backend",
+      "concorr\r\n\r\nência",
+      "sistemas"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem moderna e pragm\r\n\r\nática que roda na JVM e \r\n\r\né a linguagem preferida para desenvolvimento Android nativo.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "jvm",
+      "android",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem focada em seguran\r\n\r\nça (memory safety) e performance, usada para sistemas operacionais e desenvolvimento web.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "sistemas",
+      "performance",
+      "seguran\r\n\r\nça de mem\r\n\r\nória"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programa\r\n\r\nção moderna e segura desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "apple",
+      "mobile",
+      "nativo"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execu\r\n\r\nção JavaScript ass\r\n\r\níncrono e orientado a eventos para construir aplica\r\n\r\nções de rede escal\r\n\r\náveis.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "runtime",
+      "backend",
+      "javascript",
+      "ass\r\n\r\níncrono"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa, eficiente e flex\r\n\r\nível para construir interfaces de usu\r\n\r\nário baseadas em componentes.",
+    "data_criacao": "2013",
+    "link": "https://react.dev/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "ui",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework completo e robusto mantido pelo Google para o desenvolvimento de aplica\r\n\r\nções web de p\r\n\r\nágina \r\n\r\núnica (SPA).",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "typescript",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a constru\r\n\r\nção de interfaces de usu\r\n\r\nário, conhecido por sua facilidade de aprendizado e integra\r\n\r\nção.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "reatividade",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React de c\r\n\r\nódigo aberto que permite renderiza\r\n\r\nção do lado do servidor (SSR) e gera\r\n\r\nção est\r\n\r\nática de sites (SSG).",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "ssr",
+      "frontend",
+      "fullstack",
+      "react"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplica\r\n\r\nções dentro de cont\r\n\r\nine\r\n\r\nres leves e port\r\n\r\n\r\n\r\n\r\náveis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containeriza\r\n\r\nção",
+      "devops",
+      "ferramenta",
+      "virtualiza\r\n\r\nção"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de orquestra\r\n\r\nção de cont\r\n\r\nine\r\n\r\nres de c\r\n\r\nódigo aberto para automatizar a implanta\r\n\r\nção, dimensionamento e gerenciamento.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestra\r\n\r\nção",
+      "devops",
+      "cloud native",
+      "containeriza\r\n\r\nção"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como C\r\n\r\nódigo (IaC) que permite provisionar e gerenciar recursos de nuvem de forma declarativa.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "iac",
+      "devops",
+      "cloud",
+      "provisionamento"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, conhecido por sua flexibilidade e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documento",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Poderoso sistema de banco de dados relacional de c\r\n\r\nódigo aberto, conhecido por sua robustez e conformidade com padr\r\n\r\nões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "relacional",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Servidor de estrutura de dados em mem\r\n\r\nória (in-memory) usado como cache, broker de mensagens e banco de dados r\r\n\r\nápido.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "cache",
+      "banco de dados",
+      "in-memory",
+      "mensageria"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma distribu\r\n\r\nída de streaming de eventos que permite publicar, assinar, armazenar e processar fluxos de registros.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "dados",
+      "distribu\r\n\r\nído"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs e um runtime para cumprir essas consultas com seus dados existentes.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "protocolo",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a cria\r\n\r\nção de aplica\r\n\r\nções Spring aut\r\n\r\n\r\n\r\n\r\nônomas e de n\r\n\r\nível de produ\r\n\r\nção baseadas em Java.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "java",
+      "microservi\r\n\r\nços"
+    ]
+  },
+  {
+    "nome": ".NET (Core)",
+    "descricao": "Framework de desenvolvimento de c\r\n\r\nódigo aberto e multiplataforma mantido pela Microsoft, sucessor do .NET Framework.",
+    "data_criacao": "2016",
+    "link": "https://dotnet.microsoft.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "microsoft",
+      "csharp",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework de UI que se autodenomina um compilador, transformando o c\r\n\r\nódigo declarativo em JavaScript imperativo altamente eficiente.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "reatividade"
+    ]
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Linguagem otimizada para UI usada para construir aplica\r\n\r\nções multiplataforma m\r\n\r\nóveis, desktop, web e backend, frequentemente com Flutter.",
+    "data_criacao": "2011",
+    "link": "https://dart.dev/",
+    "tags": [
+      "linguagem de programa\r\n\r\nção",
+      "mobile",
+      "frontend",
+      "flutter"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Toolkit de UI do Google para construir belas aplica\r\n\r\nções compiladas nativamente para mobile, web e desktop a partir de uma \r\n\r\núnica base de c\r\n\r\nódigo.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "multiplataforma",
+      "ui"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de vers\r\n\r\não distribu\r\n\r\nído, gratuito e de c\r\n\r\nódigo aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e efici\r\n\r\nência.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "ferramenta",
+      "controle de vers\r\n\r\não",
+      "devops",
+      "workflow"
+    ]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Ferramenta de automa\r\n\r\nção IT de c\r\n\r\nódigo aberto que gerencia configura\r\n\r\nções de software e implanta\r\n\r\nções de aplicativos.",
+    "data_criacao": "2012",
+    "link": "https://www.ansible.com/",
+    "tags": [
+      "automa\r\n\r\nção",
+      "devops",
+      "iac",
+      "configura\r\n\r\nção"
+    ]
+  }
+]
